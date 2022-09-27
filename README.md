@@ -8,10 +8,10 @@ Dataset used in the code can be downloaded <a href="https://www.kaggle.com/datas
 <img src="https://github.com/indranarendra/Classification-of-Pitch-Disguise-Level-with-Artificial-Neural-Networks/blob/master/MFCC.png">
 
 # Algorithm for level classification using ANN.
-<img src="https://github.com/indranarendra/Classification-of-Pitch-Disguise-Level-with-Artificial-Neural-Networks/blob/master/nnalg.png">
+<img src="https://github.com/indranarendra/Classification-of-Pitch-Disguise-Level-with-Artificial-Neural-Networks/blob/master/nnalg.PNG">
 
 # Structure of the neural network
-<img src="https://github.com/indranarendra/Classification-of-Pitch-Disguise-Level-with-Artificial-Neural-Networks/blob/master/h167.png">
+<img src="https://github.com/indranarendra/Classification-of-Pitch-Disguise-Level-with-Artificial-Neural-Networks/blob/master/h167.PNG">
 
 # Level identification accuracy using ANN
 <img src="https://github.com/indranarendra/Classification-of-Pitch-Disguise-Level-with-Artificial-Neural-Networks/blob/master/results1.png">

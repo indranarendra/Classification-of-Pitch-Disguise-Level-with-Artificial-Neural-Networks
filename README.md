@@ -3,10 +3,19 @@ Dataset used in the code can be downloaded <a href="https://www.kaggle.com/datas
 
 # Classification-of-Pitch-Disguise-Level-with-Artificial-Neural-Networks
 
-Among different types of distortions, pitch disguise is one such distortion which greatly reduces the SR accuracy.
+Among different types of distortions, pitch disguise is one such distortion which greatly reduces the speaker recognition accuracy.
 
+By identifying the level of pitch disguise, accuracy can be improved.
 
+The main steps involved in level classification from pitch disguised speech are
 
+----> Feature Extraction from the speech
+
+----> Modelling
+
+Database used: TIMIT database which consists of 6300 voice segments with the average duration of 3 seconds from 630 speakers.
+
+Software used for pitch disguising: Audacity software.
 
 
 # Pipeline for MFCC Feature Extraction
